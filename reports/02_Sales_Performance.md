@@ -36,6 +36,7 @@ GROUP BY
 ORDER BY
     month;
 ```
+![Monthly Revenue Trend](../images/ch02_monthly_revenue.png)
 
 Monthly revenue increased substantially over the observed period, reaching its highest level in November 2017 at approximately **BRL 1.15 million**.
 
@@ -57,6 +58,7 @@ GROUP BY
 ORDER BY
     month;
 ```
+![Monthly Order Trend](../images/ch02_monthly_orders.png)
 
 Order volume followed a similar upward pattern, increasing from hundreds of monthly orders in early 2017 to more than 6,000 orders per month during much of 2018.
 
@@ -90,6 +92,7 @@ GROUP BY
 ORDER BY
     month;
 ```
+![Monthly Average Order Value](../images/ch02_monthly_aov.png)
 
 Average Order Value remained relatively stable compared with the substantial increase in revenue and order volume.
 
