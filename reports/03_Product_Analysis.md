@@ -99,7 +99,7 @@ Absolute order increase was then calculated for each category and used to identi
 
 ## 3.5 Category Growth Comparison
 
-<!-- INSERT: ch03_category_growth.png -->
+![Product Category Growth](../images/ch03_category_growth.png)
 
 The comparison shows that several major categories experienced substantial increases in both product sales and completed orders.
 
